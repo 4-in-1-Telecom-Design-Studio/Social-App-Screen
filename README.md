@@ -34,7 +34,7 @@ Dribbble Social Application Screen.
 Dribbble Social Application Screen.
 <br><br>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sNUq3G_KhLY/0.jpg)](https://www.youtube.com/embed/NigY_Dh6fW4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sNUq3G_KhLY/0.jpg)](https://youtu.be/NigY_Dh6fW4)
 
 </details>
 
